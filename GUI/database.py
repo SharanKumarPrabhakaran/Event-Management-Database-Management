@@ -9,8 +9,8 @@ def get_connection():
         "Driver={ODBC Driver 17 for SQL Server};"
         "Server=localhost;"
         "Database=EventManagement;"
-        "UID=SA;"
-        "PWD=Neu@7699;"
+        "UID=****;"
+        "PWD=*******;"
     )
 
 def fetch_events():
