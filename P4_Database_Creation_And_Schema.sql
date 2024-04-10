@@ -90,7 +90,6 @@ CREATE TABLE Event_Speakers (
     FOREIGN KEY (Event_ID) REFERENCES Event(Event_ID) -- Foreign key constraint referencing Event table
 );
 GO
-
 --------------------------------------------------------------------------------
 
 -- Create Session_or_Workshop table to store information about event sessions or workshops
@@ -181,3 +180,4 @@ CREATE TABLE Feedback (
 GO
 
 --------------------------------------------------------------------------------
+
