@@ -1,4 +1,3 @@
-# final_project_group15
 # Event Management Database Management
 
 ## Introduction
